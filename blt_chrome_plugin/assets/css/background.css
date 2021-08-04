@@ -1,0 +1,19 @@
+@keyframes backgroundease {
+  40% {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5) 99%), url("../../assets/img/./backdrops/two.jpg");
+  }
+  80% {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5) 99%),url("../../assets/img/./backdrops/three.jpg");
+  }
+  100% {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5) 99%),url("../../assets/img/./backdrops/four.jpg");
+  }
+  0% {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5) 99%),url("../../assets/img/./backdrops/one.jpg");
+  }
+}
+
+.background {
+  animation: backgroundease 60s infinite ease;
+}
+
