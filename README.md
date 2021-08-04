@@ -10,7 +10,7 @@ if it does that, download the source and load it as unpacked
 stick any problems into the issues tab <3  
 
 information  
-current browser support: chromium-based browsers  
+current browser support: chromium-based browsers (tested with chrome and brave)  
 features: tells the time, tells the date, lets you search with duckduckgo  
 
 other awesome tab projects:  
