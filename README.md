@@ -1,4 +1,4 @@
-blt: basic little tab (basic, it's basic)
+## blt: basic little tab (basic, it's basic)
 
 it's not actually a sandwich though
 
@@ -15,3 +15,6 @@ features: tells the time, tells the date, lets you search with duckduckgo
 
 other awesome tab projects:
 tabulate by jplexer: https://github.com/JPlexer/tabulate
+
+preview:
+![image](https://user-images.githubusercontent.com/27066503/128227396-6d4a6d32-a7ba-422c-a8c7-964c3bd886c1.png)
