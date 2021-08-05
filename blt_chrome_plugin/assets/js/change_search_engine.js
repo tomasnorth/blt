@@ -1,0 +1,3 @@
+function changeSearch() {
+  document.getElementById('search_area_div').innerHTML = `<form class="d-flex d-sm-flex d-md-flex d-xl-flex justify-content-center justify-content-sm-center justify-content-md-center justify-content-xl-center" method="post" action="https://google.com/search?q="><input type="text" class="form-control form-control-lg" id="search_bar" style="width: 500px;background: rgba(0,0,0,0.27);border-style: none;border-radius: 0px;color: rgb(255,255,255);font-family: Inconsolata, monospace;text-align: center;margin-top: 30px;" placeholder="Search with Google" name="q"/></form>`;
+}
