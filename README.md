@@ -25,3 +25,6 @@ tabulate by jplexer: https://github.com/JPlexer/tabulate
 preview:  
 ![image](https://user-images.githubusercontent.com/27066503/128426519-8750ab16-f601-44e7-9bf0-f5dd4e05d371.png)
 ![image](https://user-images.githubusercontent.com/27066503/128426545-1ca05d20-645c-4061-8415-87f0eb284bac.png)
+
+live demo version: https://tomas.wales/newtab/
+(you could also just set this as your homepage and new tab page if your web browser is currently unsupported
