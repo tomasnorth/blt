@@ -21,6 +21,7 @@ current browser support: chromium-based browsers (tested with chrome and brave)
 
 ![3](https://user-images.githubusercontent.com/27066503/128426356-fa4ee276-2840-4587-b1b9-b715856fe624.png)
 tabulate by jplexer: https://github.com/JPlexer/tabulate  
+tab by clygro: https://github.com/Clygro/Clygro.github.io/blob/master/tab.html
 
 preview:  
 ![image](https://user-images.githubusercontent.com/27066503/128426519-8750ab16-f601-44e7-9bf0-f5dd4e05d371.png)
