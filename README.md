@@ -11,7 +11,7 @@ if it does that, download the source and load it as unpacked
 stick any problems into the issues tab <3  
 
 information  
-current browser support: chromium-based browsers (tested with chrome and brave)
+current browser support: chromium-based browsers (tested with chrome and brave, does not work with opera because they disabled it)
 
 ![2](https://user-images.githubusercontent.com/27066503/128426388-eb1b0b9c-c9ae-4a35-9129-7d2e3916072f.png)
 - tells the time, 
